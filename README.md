@@ -1,2 +1,2 @@
 # War-Game
-iOS app
+iOS card game building with Swift and xcode IDE 
